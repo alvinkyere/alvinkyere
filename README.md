@@ -23,7 +23,7 @@ ColorStack, NSBE, Google Developer Groups, and CodePath.
 🛠️ Stack: Python, JavaScript, React, Node.js, Flask, 
 SQL, Git, REST APIs
 
-🌟 From Ghana to Grand Rapids — building things that matter.
+🌟 Building things that matter.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/alvinkyere.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvinkyere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinkyere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinkyere2@gmail.com) 
