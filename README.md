@@ -1,6 +1,29 @@
 # 💫 About Me:
-🚀 About Me<br><br>Hi there 👋 I’m Alvin, a passionate developer and innovator who loves building technology that connects people and solves real problems.<br><br>🎓 CS student at Calvin University, active in communities like ColorStack, NSBE, Google Developer Groups (Campus), Calvin Robotics, and African Student Association.<br><br>💻 Currently working on StudyBuds, a platform to help students find study partners on campus (Django/Flask + React).<br><br>🎮 Exploring game development, blending creativity and logic to build interactive experiences.<br><br>🤖 Robotics enthusiast with hands-on experience in building, coding, and team collaboration.<br><br>🌍 Campus Ambassador @ raincareers.com, helping peers discover career opportunities in tech.<br><br>🛠️ Tech Stack<br><br>Languages: Python, C++, Java, JavaScript, C<br><br>Frameworks & Tools: Django, Flask, React, Node.js, Git/GitHub<br><br>Other Interests: Game Engines (Unity,), Machine Learning, Cloud Tools<br><br>🌟 Fun Fact<br><br>I enjoy mixing technology with community, whether through robotics competitions, collaborative projects, or helping others level up their skills.
 
+Hi there 👋 I'm Alvin, a CS student at Calvin University 
+with a Data Science minor, passionate about building AI 
+systems that solve real problems.
+
+🤖 Incoming AI Engineering Intern at Dematic Corp., 
+building GenAI agents and AI tools for enterprise 
+supply chain operations.
+
+🔍 Built KnightSearch — a deployed search engine for 
+Calvin University's website built from scratch, including 
+web crawler, PageRank ranking, and live deployment at 
+knightsearch.xyz.
+
+🎙️ Built Sanctuary — a real-time captioning and 
+translation platform, hackathon finalist, built with 
+Node.js, Socket.io, and React.
+
+🌍 Campus Ambassador at Rain Careers. Active in 
+ColorStack, NSBE, Google Developer Groups, and CodePath.
+
+🛠️ Stack: Python, JavaScript, React, Node.js, Flask, 
+SQL, Git, REST APIs
+
+🌟 From Ghana to Grand Rapids — building things that matter.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/alvinkyere.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvinkyere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinkyere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinkyere2@gmail.com) 
