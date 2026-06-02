@@ -4,7 +4,7 @@ Hi there 👋 I'm Alvin, a CS student at Calvin University
 with a Data Science minor, passionate about building AI 
 systems that solve real problems.
 
-🤖 Incoming AI Engineering Intern at Dematic Corp., 
+🤖 Incoming Procurement Intern at Dematic Corp., 
 building GenAI agents and AI tools for enterprise 
 supply chain operations.
 
