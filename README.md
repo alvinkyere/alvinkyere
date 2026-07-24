@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm Alvin Kyere, a Computer Science student and software engineer focused on building scalable, real-world products.<br><br>* Founder and engineer of VinkIn, a group-payment platform for shared checkouts<br>* Interested in backend engineering, fintech infrastructure, distributed systems, and product development<br>* Experienced with TypeScript, Node.js, Flutter, React, Python, PostgreSQL, and Redis<br>* Currently exploring payment systems, internal ledgers, state machines, and reliable API architecture<br>* Passionate about building technology that creates meaningful impact in Africa and beyond<br><br>Currently building, learning, and turning ambitious ideas into working software.<br>
+<br><br>I'm Alvin Kyere, a Computer Science student and software engineer focused on building scalable, real-world products.<br><br>* Building VinkIn, a group-payment platform for shared checkouts<br>* Interested in backend engineering, fintech infrastructure, distributed systems, and product development Passionate about building technology that creates meaningful impact in Africa and beyond<br><br>Currently building, learning, and turning ambitious ideas into working software.<br>
 
 
 ## 🌐 Socials:
